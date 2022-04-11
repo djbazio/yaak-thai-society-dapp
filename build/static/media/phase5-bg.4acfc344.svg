@@ -1,0 +1,23 @@
+<svg viewBox="0 0 75 75" fill="none" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="37.5" cy="37.5" r="37.5" fill="#AC41C6"/>
+<circle cx="37.5" cy="37.5" r="37.5" fill="url(#paint111_linear)" fill-opacity="0.35"/>
+<circle cx="37.5" cy="37.5" r="37.5" fill="#F6783A"/>
+<circle cx="37.5" cy="37.5" r="37.5" fill="url(#paint112_linear)" fill-opacity="0.9"/>
+<circle cx="37.5" cy="37.5" r="37.5" fill="url(#paint113_linear)"/>
+<defs>
+<linearGradient id="paint111_linear" x1="59.2625" y1="48.5671" x2="22.0263" y2="20.8754" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A759C6"/>
+<stop offset="1" stop-color="#F71CE1"/>
+</linearGradient>
+<linearGradient id="paint112_linear" x1="59.2625" y1="48.5671" x2="22.0263" y2="20.8754" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF2969"/>
+<stop offset="1" stop-color="#F77A1C"/>
+</linearGradient>
+<linearGradient id="paint113_linear" x1="-0.431336" y1="37.4999" x2="75.0002" y2="37.4999" gradientUnits="userSpaceOnUse">
+<stop offset="0.369792" stop-color="#FF36BB"/>
+<stop offset="0.484375" stop-color="#944CDC"/>
+<stop offset="0.744792" stop-color="#84848B"/>
+<stop offset="0.911458" stop-color="#16CABD"/>
+</linearGradient>
+</defs>
+</svg>
